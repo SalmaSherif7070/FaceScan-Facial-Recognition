@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is a facial recognition-based attendance system that automates identity verification and attendance logging in real-time. Designed to improve accuracy and reduce time spent on manual attendance processes, it is well-suited for environments with large numbers of individuals, such as schools, corporate offices, and event venues.
+
 You can check the PPT from [here](https://www.canva.com/design/DAGV_U9t8B4/NUe4PyrqZ9HCci0PYnpOlg/edit?utm_content=DAGV_U9t8B4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
